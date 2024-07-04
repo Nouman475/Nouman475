@@ -1,7 +1,28 @@
-- 👋 Hi, I’m Muhammad Nouman
-- 👀 I’m interested in solving and debugging problems.
-- 🌱 I’m currently doing BS in Computer Science. 
-<!---
-NoumanBunty/NoumanBunty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+*About Me*
+
+👋 Frontend developer with expertise in:
+
+🔍 *HTML5*
+🎨 *CSS3 (SASS, SCSS)*
+🚀 *Bootstrap*
+💪 *Tailwind CSS*
+🤖 *JavaScript (ES6)*
+📝 *Typescript*
+🔴 *React*
+
+Currently working on 
+
+🔵 *Node Js*
+🔹 *Express Js*
+📊 *Mongo DB*
+
+*Specialties*
+
+📈 *Building responsive, accessible web applications*
+📝 *Writing clean, modular code*
+
+
+*Contact*
+
+📧 mnoumankhalid195@gmail.com

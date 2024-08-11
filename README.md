@@ -2,37 +2,45 @@
 
 ## Hi👋 there! 
 
-I'm Nouman, a passionate Web developer  with expertise in building responsive and accessible web applications using modern technologies.
+I'm Nouman, a passionate Web developer with expertise in building responsive and accessible web applications using modern technologies.
 
-**Skills & Technologies:**
+<div style="display: flex; align-items: center;">
 
-* **Frontend:** 
-    * HTML5 🔍
-    * CSS3 (SASS, SCSS) 🎨 
-    * Bootstrap🚀
-    * Tailwind CSS💪
-    * JavaScript (ES6+)🤖
-    * TypeScript📝
-    * React🔴 
+  <div style="flex: 1;">
+    **Skills & Technologies:**
 
-* **Backend (Learning):** 
-    * Node.js🔵 
-    * Express.js🔹 
-    * MongoDB📊
+    * **Frontend:** 
+      * HTML5 🔍
+      * CSS3 (SASS, SCSS) 🎨 
+      * Bootstrap🚀
+      * Tailwind CSS💪
+      * JavaScript (ES6+)🤖
+      * TypeScript📝
+      * React🔴 
 
-**Specialties:** ✨
+    * **Backend (Learning):** 
+      * Node.js🔵 
+      * Express.js🔹 
+      * MongoDB📊
 
-* Building responsive and accessible web interfaces 📈
-* Writing clean, modular, and maintainable code📝  
-* Staying up-to-date with the latest frontend trends and libraries  
+    **Specialties:** ✨
+
+    * Building responsive and accessible web interfaces 📈
+    * Writing clean, modular, and maintainable code📝  
+    * Staying up-to-date with the latest frontend trends and libraries  
+  </div>
+
+</div>
+
+---
 
 **Looking to Connect?** 📧
 
 Feel free to reach out to discuss projects or tech in general!
 
 * Email: mnoumankhalid195@gmail.com
-* LinkdeIn: https://www.linkedin.com/in/muhammad-nouman-7a6722261/
+* LinkedIn: [Muhammad Nouman](https://www.linkedin.com/in/muhammad-nouman-7a6722261/)
 
-**Want to Contribute?** 
+**Want to Contribute?**
 
-I'm open to contributions to my open-source projects (if applicable). Please refer to the individual project's contribution guidelines for details. 
+I'm open to contributions to my open-source projects (if applicable). Please refer to the individual project's contribution guidelines for details.

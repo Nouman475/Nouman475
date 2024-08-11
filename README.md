@@ -1,6 +1,8 @@
+![Project Header](https://github.com/NoumanBunty/NoumanBunty/blob/main/cover.png)
+
 ## Hi👋 there! 
 
-I'm Nouman, a passionate front-end developer  with expertise in building responsive and accessible web applications using modern technologies .
+I'm Nouman, a passionate Web developer  with expertise in building responsive and accessible web applications using modern technologies.
 
 **Skills & Technologies:**
 

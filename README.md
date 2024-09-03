@@ -38,10 +38,10 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 * Writing clean, modular, and maintainable code&#128221;  
 * Staying up-to-date with the latest frontend trends and libraries
 
-![Nouman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoumanBunty&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
+![Nouman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nouman475&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical&icon_color=ffb86c&text_color=ff79c6&bg_color=282a36)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman475&layout=compact&theme=radical&text_color=ff79c6&bg_color=282a36)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nouman475&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanBunty&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoumanBunty)
 
 
 ---

@@ -4,10 +4,9 @@
 
 I'm Nouman, a passionate Web developer with expertise in building responsive and accessible web applications using modern technologies.
 
-
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/NoumanBunty/NoumanBunty/blob/main/you-gif.gif" alt="Web Developer at work"  height="400px"/>
-  </div>
+<p align="center">
+    <img src="https://github.com/NoumanBunty/NoumanBunty/blob/main/you-gif.gif" alt="Web Developer at work" height="400px"/>
+</p>
 
 **Skills & Technologies:**
 
@@ -41,8 +40,6 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 ![Nouman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nouman475&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical&icon_color=ffb86c&text_color=ff79c6&bg_color=282a36)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman475&layout=compact&theme=radical&text_color=ff79c6&bg_color=282a36)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nouman475&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)
-
-
 
 ---
 **Looking to Connect?** 📧

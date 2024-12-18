@@ -49,7 +49,7 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 ---
 
 ### **Dynamic Contributions Graph:**  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Nouman475&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nouman475&theme=react-dark&hide_border=true&area=true)
 
 ---
 

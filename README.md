@@ -9,12 +9,12 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nouman475&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">![](https://github-profile-trophy.vercel.app/?username=nouman475&theme=dracula&no-frame=false&no-bg=true&margin-w=4)</p>
 
 ### ✍️ Random Dev Quote
 

@@ -48,10 +48,5 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 
 ---
 
-### **Dynamic Contributions Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nouman475&theme=react-dark&hide_border=true&area=true)
-
----
-
 ### **Want to Contribute?**  
 I'm open to contributions to my open-source projects! Feel free to fork and raise PRs.  

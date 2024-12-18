@@ -24,7 +24,7 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouman475&show_icons=true&locale=en" alt="nouman475" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouman475&" alt="nouman475" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouman475" alt="nouman475" /></p>
 
 
 ### **Skills & Technologies:**

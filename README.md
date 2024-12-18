@@ -16,11 +16,14 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false" />
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
+
 
 
 ![]()
@@ -32,14 +35,6 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=nouman475&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=nouman475&icon=10&color=11)](https://visitcount.itsvg.in)
 
 ### **Skills & Technologies:**
 

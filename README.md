@@ -22,8 +22,8 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies

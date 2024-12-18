@@ -8,9 +8,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
+
+![]()
 
 ## 🏆 GitHub Trophies
 

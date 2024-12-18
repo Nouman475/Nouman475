@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /></p><br/>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nouman475&theme=dracula&hide_border=false" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 

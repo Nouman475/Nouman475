@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">(https://github-profile-trophy.vercel.app/?username=nouman475&theme=dracula&no-frame=false&no-bg=true&margin-w=4)</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nouman475&theme=dracula&no-frame=false&no-bg=true&margin-w=4" /></p>
 
 ### ✍️ Random Dev Quote
 

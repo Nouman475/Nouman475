@@ -30,9 +30,9 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 
 ---
 
-![Nouman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoumanBunty&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&icon_color=ffb86c&text_color=ff79c6&bg_color=282a36)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanBunty&layout=compact&theme=radical&text_color=ff79c6&bg_color=282a36)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoumanBunty&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)  
+![Nouman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nouman475&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&icon_color=ffb86c&text_color=ff79c6&bg_color=282a36)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman475&layout=compact&theme=radical&text_color=ff79c6&bg_color=282a36)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nouman475&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)  
 
 ---
 
@@ -44,12 +44,12 @@ I'm Nouman, a passionate Web developer with expertise in building responsive and
 ---
 
 ### **Profile Viewers:**  
-![Profile Viewers](https://komarev.com/ghpvc/?username=NoumanBunty&color=blue)
+![Profile Viewers](https://komarev.com/ghpvc/?username=Nouman475&color=blue)
 
 ---
 
 ### **Dynamic Contributions Graph:**  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=NoumanBunty&theme=react-dark&hide_border=true&area=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Nouman475&theme=react-dark&hide_border=true&area=true)
 
 ---
 

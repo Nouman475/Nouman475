@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouman</h1>
-<h3 align="center">A passionate Web and android app developer</h3>
+<h3 align="center">Web developer | Android App developer | Desktop app developer | MERN stack</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nouman475&label=Profile%20views&color=0e75b6&style=flat" alt="nouman475" /> </p>
 

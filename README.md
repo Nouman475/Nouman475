@@ -5,7 +5,7 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Activity Graph](https://github-contribution-graph.ez4o.com/?username=nouman475)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nouman475&theme=dracula)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 

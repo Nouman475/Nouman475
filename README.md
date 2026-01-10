@@ -11,6 +11,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouman475&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/nouman475/nouman475/output/snake.svg" alt="Snake animation" />
+
 ### **Skills & Technologies:**
 
 ### Frontend:
